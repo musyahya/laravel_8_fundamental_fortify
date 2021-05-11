@@ -3,7 +3,7 @@
 @section('title', 'Login')
 @section('bg-blue', 'bg-gradient-primary')
 
-@section('content')
+@section('body')
     <div class="container">
 
     <!-- Outer Row -->

@@ -3,7 +3,7 @@
 @section('title', 'Register')
 @section('bg-blue', 'bg-gradient-primary')
 
-@section('content')
+@section('body')
       <div class="container">
 
     <div class="row justify-content-center">

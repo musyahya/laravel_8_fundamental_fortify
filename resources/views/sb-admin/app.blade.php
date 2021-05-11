@@ -6,9 +6,9 @@
 
 <body id="page-top" class="@yield('bg-blue')">
 
-    @auth
+    @hasSection ('content')
         
-         <!-- Page Wrapper -->
+          <!-- Page Wrapper -->
             <div id="wrapper">
 
                 @include('sb-admin/sidebar')
@@ -39,12 +39,13 @@
 
             </div>
             <!-- End of Page Wrapper -->
+        
+    @endif
 
-    @else
+    @hasSection ('body')
+        @yield('body')        
+    @endif
 
-        @yield('content')
-
-    @endauth
 
   @include('sb-admin/scroll-top')
 
