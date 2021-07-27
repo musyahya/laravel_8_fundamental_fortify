@@ -22,7 +22,7 @@ Laravel 8 Fortify dibuat oleh :
 **Clone Repository**
 
 ```bash
-git clone https://github.com/musyahya/laravel_8_blog.git
+git clone https://github.com/musyahya/laravel_8_fundamental_fortify.git
 ```
 
 **Download zip**
