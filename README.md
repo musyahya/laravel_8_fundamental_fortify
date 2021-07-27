@@ -1,8 +1,8 @@
-<h1 align="center">Laravel 8 Fortify</h1>
+<h1 align="center">Laravel 8 Fundamental Fortify</h1>
 
 ## Author
 
-Laravel 8 Fortify dibuat oleh :
+Laravel 8 Fundamental Fortify dibuat oleh :
 
 - Github : <a href="https://github.com/musyahya"> Musyahya </a>
 - Youtube : <a href="https://www.youtube.com/channel/UC1iCvpMssrHnUsWKEe2cOag"> Musyahya </a>
