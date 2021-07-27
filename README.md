@@ -54,9 +54,7 @@ nama database : laravel_8_fortify
 
 ## Login ke mailtrap.io
 
-```bash
-copy configurasi dan paste ke .env
-```
+<a href="https://mailtrap.io/"> Mailtrap</a>
 
 ## Setting database di .env
 
